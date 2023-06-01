@@ -5,6 +5,7 @@ body {
   font-family: 'Titillium Web', sans-serif;
 }
 
+
 nav {
   background-color: #6C7D5F;
   padding: 20px;
@@ -131,6 +132,10 @@ font-size: auto;
   text-align: center;
 }
 
+input[type="text"]
+{
+ font-family: 'Titillium Web', sans-serif;
+}
 
 #contact {
   padding: 100px;
@@ -149,6 +154,10 @@ font-size: auto;
   display: block;
   width: 100%;
   margin-bottom: 10px;
+}
+
+textarea { 
+  font-family: 'Titillium Web', sans-serif;
 }
 
 #contact form textarea {
